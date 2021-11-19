@@ -1,0 +1,41 @@
+body{
+    background-size: cover;
+}
+
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: crimson;
+    font-size: 40px;
+    text-align: center;
+}
+#btn{
+    background-color:blue;
+    margin-left: 47%;
+    margin-bottom: 13px;
+    padding: 3px;
+    font-size: 20px;
+}
+#tab{
+    align-items: center;
+    width: 70%;
+    height: 100%;
+    margin: 0px;
+   
+    background-color:  rgba(0, 255, 0, 0.3);
+
+}
+ table,th,td{
+     border: 1px solid black;
+     font-size: 30px;
+ }
+
+ td{
+     text-align: center;
+ }
+ tr:hover{
+    background-color:  rgb(131, 20, 97);
+ }
+
+ #head{
+     background-color: teal;
+ }

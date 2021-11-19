@@ -1,0 +1,85 @@
+{"grocery":[
+    {
+        "no":"1",
+        "name":"Tomato",
+        "quantity":"1Kg",
+        "Unit":"56",
+        "dep":"Veg",
+        "notes":"Red Colour"
+
+
+    },
+    {
+        "no":"2",
+        "name":"Milk",
+        "quantity":"500ml",
+        "unit":"25",
+        "dep":"Cool",
+        "notes":"Pasturized Milk"
+  },
+  {
+        "no":"3",
+        "name":"Biscuit",
+        "quantity":"100g",
+        "unit":"20",
+        "dep":"Bakery",
+        "notes":"Cashew Cookies"
+  },
+  {
+        "no":"4",
+        "name":"Carrot",
+        "quantity":"10Kg",
+        "unit":"25",
+        "dep":"Veg",
+        "notes":"Orange Carrot"
+  },
+  {
+        "no":"5",
+        "name":"Sambar Powder",
+        "quantity":"250g",
+        "unit":"29",
+        "dep":"Powder",
+        "notes":"Kitchen Treasures"
+  },
+  {
+        "no":"6",
+        "name":"Curd",
+        "quantity":"250ml",
+        "unit":"25",
+        "dep":"Cool",
+        "notes":"Fresh"
+  },
+  {
+        "no":"7",
+        "name":"Banana",
+        "quantity":"1Kg",
+        "unit":"46",
+        "dep":"Fruits",
+        "notes":"Kadali"
+  },
+  {
+        "no":"8",
+        "name":"Apple",
+        "quantity":"1.5Kg",
+        "unit":"75",
+        "dep":"Fruits",
+        "notes":"Kashmir Apple"
+  },
+  {
+        "no":"9",
+        "name":"Ladies Finger",
+        "quantity":"300g",
+        "unit":"25",
+        "dep":"Veg",
+        "notes":"Tamil Nadu"
+  },
+  {
+        "no":"10",
+        "name":"Coconut Oil",
+        "quantity":"1L",
+        "unit":"125",
+        "dep":"Oil",
+        "notes":"Pure"
+  }
+]
+}
