@@ -4,7 +4,7 @@ body{
 
 h1{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: crimson;
+    color:hotpink;
     font-size: 40px;
     text-align: center;
 }
@@ -21,7 +21,7 @@ h1{
     height: 100%;
     margin: 0px;
    
-    background-color:  rgba(0, 255, 0, 0.3);
+    background-color:  lightblue;
 
 }
  table,th,td{
@@ -33,7 +33,7 @@ h1{
      text-align: center;
  }
  tr:hover{
-    background-color:  rgb(131, 20, 97);
+    background-color:maroon;
  }
 
  #head{
