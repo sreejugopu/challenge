@@ -1,29 +1,31 @@
 {"grocery":[
     {
         "no":"1",
-        "name":"Tomato",
-        "quantity":"1Kg",
-        "Unit":"56",
+        "name":"Ladies Finger",
+        "quantity":"300g",
+        "unit":"25",
         "dep":"Veg",
-        "notes":"Red Colour"
+        "notes":"Tamil Nadu"
+       
 
 
     },
     {
         "no":"2",
-        "name":"Milk",
-        "quantity":"500ml",
-        "unit":"25",
-        "dep":"Cool",
-        "notes":"Pasturized Milk"
+        "name":"Apple",
+        "quantity":"1.5Kg",
+        "unit":"75",
+        "dep":"Fruits",
+        "notes":"Kashmir Apple"
   },
   {
-        "no":"3",
-        "name":"Biscuit",
-        "quantity":"100g",
-        "unit":"20",
-        "dep":"Bakery",
-        "notes":"Cashew Cookies"
+    "no":"3",
+    "name":"Sambar Powder",
+    "quantity":"250g",
+    "unit":"29",
+    "dep":"Powder",
+    "notes":"Kitchen Treasures"
+        
   },
   {
         "no":"4",
@@ -33,13 +35,14 @@
         "dep":"Veg",
         "notes":"Orange Carrot"
   },
-  {
-        "no":"5",
-        "name":"Sambar Powder",
-        "quantity":"250g",
-        "unit":"29",
-        "dep":"Powder",
-        "notes":"Kitchen Treasures"
+  {     
+    "no":"5",
+    "name":"Biscuit",
+    "quantity":"100g",
+    "unit":"20",
+    "dep":"Bakery",
+    "notes":"Cashew Cookies"
+        
   },
   {
         "no":"6",
@@ -57,21 +60,24 @@
         "dep":"Fruits",
         "notes":"Kadali"
   },
-  {
-        "no":"8",
-        "name":"Apple",
-        "quantity":"1.5Kg",
-        "unit":"75",
-        "dep":"Fruits",
-        "notes":"Kashmir Apple"
+  {       
+    
+    "no":"8",
+    "name":"Milk",
+    "quantity":"500ml",
+    "unit":"25",
+    "dep":"Cool",
+    "notes":"Pasturized Milk"    
+    
   },
   {
         "no":"9",
-        "name":"Ladies Finger",
-        "quantity":"300g",
-        "unit":"25",
+        "name":"Tomato",
+        "quantity":"1Kg",
+        "Unit":"56",
         "dep":"Veg",
-        "notes":"Tamil Nadu"
+        "notes":"Red Colour"
+       
   },
   {
         "no":"10",
